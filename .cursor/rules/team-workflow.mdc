@@ -1,0 +1,7 @@
+---
+description: Shared boundaries for the AI workflow kit
+alwaysApply: true
+---
+Keep work within the requested task. Preserve existing changes and secrets.
+Before using an installed workflow command, read tools/agent-workflow/guide.md.
+Use configured scripts for Git and verification. Do not publish or push unless requested.
